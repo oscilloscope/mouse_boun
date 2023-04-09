@@ -1,4 +1,4 @@
 datasets/
 # ignore txt files
-Movement_Dictionary_total.txt
-Movement_Dictionary_total.pkl
+*.txt
+*.pkl
